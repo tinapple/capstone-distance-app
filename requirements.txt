@@ -1,0 +1,5 @@
+mediapipe==0.10.8
+opencv-python==4.8.1.78
+python-osc==1.8.3
+numpy==1.26.3
+pyinstaller==6.3.0
